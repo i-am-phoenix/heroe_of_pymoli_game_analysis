@@ -23,7 +23,7 @@ The [input file](./Resources/purchase_data.csv) contained the following data:
 
 Sample of the input data is provided below, after being imported as Pandas data frame.
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\input_data.PNG" style="zoom:75%;" alt="Input data"/>
+<img src="HeroesOfPymoli\Resources\input_data.PNG" style="zoom:75%;" alt="Input data"/>
 
 ### Analysis and output:
 
@@ -31,19 +31,19 @@ Below is an output of all of the requested analytic calculations that had to be 
 
 #### Player Count
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\player_count.PNG" alt="Total Number of Players" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\player_count.PNG" alt="Total Number of Players" style="zoom:75%;" />
 
 #### Purchasing Analysis (Total)
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\purch_an_total.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\purch_an_total.PNG" style="zoom:75%;" />
 
 #### Purchasing Analysis (Gender)
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\purch_an_gender.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\purch_an_gender.PNG" style="zoom:75%;" />
 
 #### Age Demographics
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\purch_an_age.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\purch_an_age.PNG" style="zoom:75%;" />
 
 #### Top Spenders
 
@@ -51,11 +51,11 @@ Below is an output of all of the requested analytic calculations that had to be 
 
 #### Most Popular Items
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\pop_items.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\pop_items.PNG" style="zoom:75%;" />
 
 #### Most Profitable Items
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\profit_items.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\profit_items.PNG" style="zoom:75%;" />
 
 Based on the analysis of the provided dataset, three key observations can be made:
 
