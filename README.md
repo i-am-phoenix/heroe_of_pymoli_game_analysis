@@ -11,7 +11,7 @@ Analyze the data for a fantasy game - Heroes of Pymoli. Like many others in its 
 
 ### Input data: 
 
-The [input file](./Resources/purchase_data.csv) contained the following data:
+The [input file](HeroesOfPymoli/Resources/purchase_data.csv) contained the following data:
 
 * `Purchase ID`	column contains individual IDs for each purchase made (data type - integer)	
 * `SN`	column contains names of users making the purchase (data type - string)
