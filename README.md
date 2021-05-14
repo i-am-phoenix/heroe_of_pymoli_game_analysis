@@ -47,7 +47,7 @@ Below is an output of all of the requested analytic calculations that had to be 
 
 #### Top Spenders
 
-<img src="C:\Users\troub\gitHub\rice-btcmp-hw4-pandas-challenge\HeroesOfPymoli\Resources\top_spenders.PNG" style="zoom:75%;" />
+<img src="HeroesOfPymoli\Resources\top_spenders.PNG" style="zoom:75%;" />
 
 #### Most Popular Items
 
