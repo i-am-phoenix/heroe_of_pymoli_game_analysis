@@ -1,8 +1,3 @@
-# rice-btcmp-hw4-pandas
-Repository contains Rice Analytics & Visualization Bootcamp's Homework #4 centered on the application of Pandas and Jupyter Notebook.
-
-
-
 ## Heroes of Pymoli
 
 ### Project objective:
